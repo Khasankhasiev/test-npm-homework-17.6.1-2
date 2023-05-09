@@ -1,0 +1,25 @@
+{
+    "name": "module17_homework",
+    "version": "1.0.0",
+    "description": "test for example",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Khasankhasiev/module17_homework.git"
+    },
+    "author": "Khasankhasiev",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Khasankhasiev/module17_homework/issues"
+    },
+    "homepage": "https://github.com/aneelia/learn-js#readme",
+    "devDependencies": {
+        "@babel/core": "^7.21.8",
+        "@babel/preset-env": "^7.21.5",
+        "babel-jest": "^29.5.0",
+        "jest": "^29.5.0"
+    }
+}
